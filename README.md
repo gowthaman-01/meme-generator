@@ -2,7 +2,7 @@
 
 This is a meme generator built using React. It fetches data from https://api.imgflip.com/get_memes and generates random images for the user to play around with. You can either generate the image and fill in the captions or type in the text and generate the image.
 
-[screenshot](./src/images/screenshot.gif)
+![screenshot](./src/images/screenshot.gif)
 
 # Getting Started with Create React App
 
